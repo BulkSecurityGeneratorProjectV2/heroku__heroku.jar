@@ -62,7 +62,7 @@
         <repository>
             <id>twittercom</id>
             <name>twitter.com</name>
-            <url>http://maven.twttr.com/</url>
+            <url>https://maven.twttr.com/</url>
         </repository>
     </repositories>
     <build>
